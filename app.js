@@ -1,4 +1,4 @@
-const Gelato = require('Gelato');
+const Gelato = require('gelato.js');
 
 const env = require('dotenv');
 env.config()
